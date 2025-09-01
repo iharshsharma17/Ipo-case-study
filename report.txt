@@ -1,0 +1,40 @@
+# IPO Case Study
+
+## Introduction
+An **Initial Public Offering (IPO)** is when a company offers its shares to the public for the first time.  
+This case study explores the IPO process, benefits, risks, and performance.
+
+---
+
+## Why Companies Go Public
+- Raise capital for expansion
+- Pay off debts
+- Gain public recognition
+- Provide exit to early investors
+
+---
+
+## IPO Process (Simplified)
+1. **Appoint investment bankers**
+2. **Due diligence & regulatory filings**
+3. **Set price band & launch IPO**
+4. **Shares listed on stock exchange**
+
+---
+
+## Case Example – Zomato IPO (India)
+- Issue Price: ₹76  
+- Listing Price: ₹125 (65% gain on day 1)  
+- Current Price (2025): ~₹140 (moderate long-term returns)  
+
+---
+
+## Risks in IPOs
+- Overvaluation  
+- Market volatility  
+- Poor long-term performance  
+
+---
+
+## Conclusion
+IPOs can provide great short-term gains but long-term success depends on company fundamentals.
